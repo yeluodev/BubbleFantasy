@@ -1,4 +1,6 @@
 # BubbleFantasy - 自定义气泡控件
+## 示例截图
+<img src="./captures/image.png" width = 30% height = 30% />
 
 ## Gradle
 
@@ -84,6 +86,3 @@ mBubbleLayout.setClipPathCreator(new ClipPathCreator() {
 | bf_fixPadding | 是否修复内边距 | boolean |
 | bf_borderWidth | 描边宽度 |  |
 | bf_borderColor | 描边颜色 |  |
-
-## 示例
-![image](captures/image.png)
